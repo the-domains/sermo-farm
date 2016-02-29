@@ -1,0 +1,28 @@
+name: sermo.farm
+favicon: null
+layout_spectrum: 0.576025600079447
+typography_spectrum: 0.6832449268549681
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.05624975054524839
+  lightness: 0.9352310125250369
+  saturation: 0.4084242368116975
+  rhythmicContrast: 0.2600090226624161
+purpose: []
